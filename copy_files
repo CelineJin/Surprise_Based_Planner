@@ -1,0 +1,1 @@
+scp -i /Users/celinejin/AFRL/surprise-planner-2.pem /Users/celinejin/AFRL/* ec2-user@ec2-54-89-188-141.compute-1.amazonaws.com:/home/ec2-user/
